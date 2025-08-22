@@ -1,0 +1,149 @@
+{
+  "name": "BOAKYE-KWARTENG WINDFRED",
+  "title": "Data Analyst",
+  "location": "Accra, Ghana",
+  "contacts": {
+    "phone": "+233 203 236 379",
+    "email": "kwartengboakye@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/windfred-boakye-kwarteng-3328a5198",
+    "github": "https://github.com/BOAKYE-KWARTENG"
+  },
+  "summary": "Creative, design-thinking Data Analyst with ~5 years in business settings. Proficient in R, Python, Adobe Suite, and Microsoft stack; experienced in data quality governance, automation, and compelling visual reporting.",
+  "skills": [
+    "Statistical Analysis","SQL","R","Python","Power BI","Excel","Jupyter",
+    "Adobe Illustrator","Adobe Photoshop","Data Ethics","Machine Learning",
+    "Data Visualization","Presentation","Project Management","Data Cleaning",
+    "Laravel","Filament", "HTML", "CSS", "React", "Tailwind CSS", "GitHub"
+  ],
+  "experience": [
+    {
+      "company": "Danova Analytics Limited",
+      "location": "Tema, Ghana",
+      "title": "Data Analyst Instructor (Weekend)",
+      "from": "Dec 2024",
+      "to": "Present",
+      "bullets": [
+        "Facilitate Microsoft Excel and Python support for beginner & intermediate analysts.",
+        "Plan and coordinate classes leveraging project management skills."
+      ]
+    },
+    {
+      "company": "Ministry of Gender, Children and Social Protection — GNHR",
+      "location": "Accra, Ghana",
+      "title": "Data Quality Officer (Remote)",
+      "from": "Feb 2025",
+      "to": "Jul 2025",
+      "bullets": [
+        "Conduct quality assurance on field data.",
+        "Built Python scripts for comprehensive data quality checks with a Senior Data Analyst."
+      ]
+    },
+    {
+      "company": "OLD MUTUAL LIFE ASSURANCE",
+      "location": "Accra, Ghana",
+      "title": "Policy Administration Specialist (Data Quality Analyst)",
+      "from": "Aug 2023",
+      "to": "Dec 2024",
+      "bullets": [
+        "Coordinated renewals/onboarding, collaborating with Corporate Relationship Managers toward a 95% retention rate.",
+        "Developed data validation scripts to reduce entry errors across systems.",
+        "Reconciled reinsurance/coinsurance transactions with advanced Excel and visualization.",
+        "Automated document generation via Python + Word mail merge for 24-hour turnaround."
+      ]
+    },
+    {
+      "company": "Ministry of Gender, Children and Social Protection — GNHR",
+      "location": "Accra, Ghana",
+      "title": "Data Quality Officer (Weekend)",
+      "from": "Dec 2023",
+      "to": "May 2024",
+      "bullets": [
+        "Wrote Python scripts for data quality checks.",
+        "Produced regional infographics to communicate insights."
+      ]
+    },
+    {
+      "company": "OLD MUTUAL LIFE ASSURANCE",
+      "location": "Accra, Ghana",
+      "title": "Premium Administrator (Data Quality Analyst)",
+      "from": "Oct 2021",
+      "to": "Jul 2023",
+      "bullets": [
+        "Streamlined workflows with R/Python (saved ~2 hours daily for ops).",
+        "Enforced data consistency across database and DMS.",
+        "Led suspense project; reduced premium suspense by ~40%."
+      ]
+    },
+    {
+      "company": "Ghana Statistical Service (GIS Department)",
+      "location": "Accra, Ghana",
+      "title": "GIS Assistant (National Service)",
+      "from": "Sep 2019",
+      "to": "Sep 2020",
+      "bullets": [
+        "Participated in the 2020 Population & Housing Census.",
+        "Produced census maps with ArcGIS."
+      ]
+    }
+  ],
+
+"projects": [
+    {
+        "Project Title": "Global Superstore Sales Analysis",
+        "Description": "Analyzed a global sales dataset to identify key performance indicators (KPIs), trends, and opportunities for growth. Developed interactive dashboards to visualize sales performance by region and product category.",
+        "Tools": "Python (Pandas, Matplotlib, Scikit-learn), SQL, Tableau",
+        "Link": "https://github.com/BOAKYE-KWARTENG/-Sales-and-Profit-Analysis?tab=readme-ov-file"
+    },
+    {
+        "Project Title": "Customer Churn Prediction",
+        "Description": "Built a machine learning model to predict customer churn for a telecom company. Implemented feature engineering and model evaluation to improve prediction accuracy and support retention strategies.",
+        "Tools": "Python (Scikit-learn, Pandas), Power BI, SQL",
+        "Link": "https://github.com/BOAKYE-KWARTENG/CUSTOMER-LIFETIME-VALUE"
+    },
+    {
+        "Project Title": "Automated Data Quality Reporting",
+        "Description": "Developed automated scripts to monitor and report on data quality issues in business operations. Enabled real-time alerts and visual summaries for stakeholders to address inconsistencies promptly.",
+        "Tools": "Python, Excel, Power BI",
+        "Link": "https://github.com/BOAKYE-KWARTENG/SUSPENSE-REPORT-SCRIPT"
+    }
+],
+  "education": [
+    {
+      "school": "University of Ghana",
+      "degree": "MSc. Applied Statistics",
+      "from": "Oct 2024",
+      "to": "Sep 2025",
+      "coursework": ["Statistical Inference","Computational Statistics","OR & Optimization","Machine Learning","Linear Models","M&E"]
+    },
+    {
+      "school": "University of Cape Coast",
+      "degree": "BSc. Actuarial Science",
+      "from": "Aug 2015",
+      "to": "May 2019",
+      "coursework": ["Statistics","Mathematics","Calculus","Probability"]
+    }
+  ],
+"certifications": [
+    {
+        "name": "Google Project Management",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/SJEJKXZF5J4G"
+    },
+    {
+        "name": "Google Advanced Data Analytics",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/LBK895P3Y8JD"
+    },
+    {
+        "name": "Google Business Intelligence",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/8PVJN5TPLNR5"
+    },
+    {
+        "name": "Google Data Analytics",
+        "link": "https://www.coursera.org/account/accomplishments/specialization/QB9EFJGRLWQ6"
+    }
+],
+  "leadership": [
+    "Public Relations Officer (PRO), Actuarial Science Students Association of Ghana, UCC",
+    "Scrum Master, Analytics Team, Old Mutual Ghana"
+  ],
+  "interests": ["Reading","Continuous Learning","Graphic Design","Photography","Volunteering"]
+}
