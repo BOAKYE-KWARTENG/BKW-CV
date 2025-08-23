@@ -62,7 +62,7 @@ export default function App() {
             {data.skills.map(s => (
               <div
                 key={s}
-                className="rounded-lg bg-slate-50 dark:bg-slate-800 px-4 py-2 text-left font-small hover:bg-slate-50 dark:hover:bg-slate-700 transition"
+                className="rounded-lg bg-slate-50 dark:bg-slate-900 px-4 py-2 text-left font-small hover:bg-slate-50 dark:hover:bg-slate-700 transition"
               >
                 {s}
               </div>
