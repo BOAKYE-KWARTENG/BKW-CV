@@ -105,6 +105,12 @@
         "Description": "Developed automated scripts to monitor and report on data quality issues in business operations. Enabled real-time alerts and visual summaries for stakeholders to address inconsistencies promptly.",
         "Tools": "Python, Excel, Power BI",
         "Link": "https://github.com/BOAKYE-KWARTENG/SUSPENSE-REPORT-SCRIPT"
+    },
+    {
+        "Project Title": "New Project Title",
+        "Description": "Brief description of the project highlighting objectives and outcomes.",
+        "Tools": "List of tools/technologies used",
+        "Link": "https://github.com/your-repo-link"
     }
 ],
   "education": [
